@@ -1,0 +1,12 @@
+org\spring\springboot\controller\GateWayController.class
+org\spring\springboot\Application.class
+org\spring\springboot\util\HttpUtil.class
+org\spring\springboot\domain\GateWay.class
+org\spring\springboot\util\ConsumerKafka.class
+org\spring\springboot\service\GateWayService.class
+org\spring\springboot\util\ControllerUtils.class
+org\spring\springboot\util\WebSocket.class
+org\spring\springboot\util\WebSocketConfig.class
+org\spring\springboot\domain\TagDef.class
+org\spring\springboot\controller\DefineErrorController.class
+org\spring\springboot\service\impl\GateWayESServiceImpl.class

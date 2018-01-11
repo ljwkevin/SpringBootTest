@@ -1,0 +1,21 @@
+2018-01-09 09:20:51,927 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 40196 (F:\SVN\gateway\target\classes started by caoqc19470 in F:\SVN\gateway)
+2018-01-09 09:20:51,948 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-09 09:20:58,507 INFO (StartupInfoLogger.java:57)- Started Application in 7.102 seconds (JVM running for 9.154)
+2018-01-09 09:22:33,305 INFO (WebSocket.java:39)- 连接建立成功调用的方法
+2018-01-09 09:22:33,308 INFO (ConsumerKafka.java:33)- 加载配置文件出错
+2018-01-09 10:06:09,906 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 40268 (F:\SVN\gateway\target\classes started by caoqc19470 in F:\SVN\gateway)
+2018-01-09 10:06:09,909 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-09 10:06:15,161 INFO (StartupInfoLogger.java:57)- Started Application in 5.655 seconds (JVM running for 6.872)
+2018-01-09 10:06:22,116 INFO (WebSocket.java:39)- 连接建立成功调用的方法
+2018-01-09 10:06:22,118 INFO (ConsumerKafka.java:33)- 加载配置文件出错
+2018-01-09 10:07:16,493 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41776 (F:\SVN\gateway\target\classes started by caoqc19470 in F:\SVN\gateway)
+2018-01-09 10:07:16,498 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-09 10:07:21,834 INFO (StartupInfoLogger.java:57)- Started Application in 5.803 seconds (JVM running for 7.041)
+2018-01-09 10:07:23,633 INFO (WebSocket.java:39)- 连接建立成功调用的方法
+2018-01-09 10:07:23,646 INFO (ConsumerKafka.java:33)- 加载配置文件出错
+2018-01-09 11:47:30,390 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 43160 (F:\SVN\gateway\target\classes started by caoqc19470 in F:\SVN\gateway)
+2018-01-09 11:47:30,393 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-09 11:47:36,220 INFO (StartupInfoLogger.java:57)- Started Application in 6.299 seconds (JVM running for 7.502)
+2018-01-09 17:27:08,247 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44392 (F:\SVN\gateway\target\classes started by caoqc19470 in F:\SVN\gateway)
+2018-01-09 17:27:08,252 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-09 17:27:16,459 INFO (StartupInfoLogger.java:57)- Started Application in 8.841 seconds (JVM running for 10.885)

@@ -1,0 +1,117 @@
+2018-01-11 09:23:51,976 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44648 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:23:52,038 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:23:58,170 INFO (StartupInfoLogger.java:57)- Started Application in 6.682 seconds (JVM running for 8.468)
+2018-01-11 09:31:16,110 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41364 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:31:16,114 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:31:21,763 INFO (StartupInfoLogger.java:57)- Started Application in 6.159 seconds (JVM running for 7.945)
+2018-01-11 09:42:27,766 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41408 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:42:27,771 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:42:33,215 INFO (StartupInfoLogger.java:57)- Started Application in 5.818 seconds (JVM running for 7.382)
+2018-01-11 09:44:50,103 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42288 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:44:50,107 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:44:57,618 INFO (StartupInfoLogger.java:57)- Started Application in 8.196 seconds (JVM running for 10.208)
+2018-01-11 09:46:14,998 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44960 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:46:15,011 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:46:21,477 INFO (StartupInfoLogger.java:57)- Started Application in 7.207 seconds (JVM running for 9.456)
+2018-01-11 09:50:25,823 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44508 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:50:25,827 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:50:31,683 INFO (StartupInfoLogger.java:57)- Started Application in 6.311 seconds (JVM running for 8.176)
+2018-01-11 09:55:01,636 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44500 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:55:01,641 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:55:07,305 INFO (StartupInfoLogger.java:57)- Started Application in 6.279 seconds (JVM running for 8.368)
+2018-01-11 09:55:52,422 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44284 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 09:55:52,429 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 09:56:00,083 INFO (StartupInfoLogger.java:57)- Started Application in 8.111 seconds (JVM running for 10.411)
+2018-01-11 10:03:26,262 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45328 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 10:03:26,266 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 10:03:33,614 INFO (StartupInfoLogger.java:57)- Started Application in 7.729 seconds (JVM running for 9.655)
+2018-01-11 10:07:30,799 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42772 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 10:07:30,803 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 10:07:36,150 INFO (StartupInfoLogger.java:57)- Started Application in 5.823 seconds (JVM running for 7.129)
+2018-01-11 10:09:18,293 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 34284 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 10:09:18,300 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 10:09:25,092 INFO (StartupInfoLogger.java:57)- Started Application in 7.317 seconds (JVM running for 9.225)
+2018-01-11 10:13:04,549 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 2888 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 10:13:04,552 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 10:13:11,237 INFO (StartupInfoLogger.java:57)- Started Application in 7.139 seconds (JVM running for 8.798)
+2018-01-11 10:18:00,609 INFO (ControllerUtils.java:242)- 拆分出错
+2018-01-11 10:18:00,685 INFO (ControllerUtils.java:163)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'all_link_road'' at line 1
+2018-01-11 10:18:13,594 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45148 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 10:18:13,598 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 10:18:18,842 INFO (StartupInfoLogger.java:57)- Started Application in 5.633 seconds (JVM running for 7.085)
+2018-01-11 10:18:22,287 INFO (ControllerUtils.java:242)- 拆分出错
+2018-01-11 10:18:22,734 INFO (ControllerUtils.java:163)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'all_link_road'' at line 1
+2018-01-11 11:47:02,433 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42676 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 11:47:02,440 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 11:47:09,502 INFO (StartupInfoLogger.java:57)- Started Application in 7.597 seconds (JVM running for 8.011)
+2018-01-11 12:43:20,287 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42880 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 12:43:20,290 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 12:43:25,542 INFO (StartupInfoLogger.java:57)- Started Application in 5.841 seconds (JVM running for 7.276)
+2018-01-11 12:43:42,272 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 7900 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 12:43:42,277 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 12:43:47,324 INFO (StartupInfoLogger.java:57)- Started Application in 5.628 seconds (JVM running for 7.427)
+2018-01-11 14:15:53,797 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42056 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:15:53,802 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:16:00,331 INFO (StartupInfoLogger.java:57)- Started Application in 7.07 seconds (JVM running for 8.172)
+2018-01-11 14:18:51,681 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45632 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:18:51,691 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:18:59,516 INFO (StartupInfoLogger.java:57)- Started Application in 8.46 seconds (JVM running for 10.448)
+2018-01-11 14:20:44,496 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41044 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:20:44,518 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:20:55,053 INFO (StartupInfoLogger.java:57)- Started Application in 11.977 seconds (JVM running for 15.345)
+2018-01-11 14:36:46,442 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45620 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:36:46,449 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:36:53,800 INFO (StartupInfoLogger.java:57)- Started Application in 7.874 seconds (JVM running for 9.201)
+2018-01-11 14:39:10,270 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42128 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:39:10,279 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:39:17,823 INFO (StartupInfoLogger.java:57)- Started Application in 8.152 seconds (JVM running for 10.309)
+2018-01-11 14:41:44,698 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41736 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:41:44,701 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:41:50,014 INFO (StartupInfoLogger.java:57)- Started Application in 5.722 seconds (JVM running for 6.978)
+2018-01-11 14:48:36,836 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45576 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:48:36,843 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:48:43,313 INFO (StartupInfoLogger.java:57)- Started Application in 6.955 seconds (JVM running for 8.394)
+2018-01-11 14:53:29,178 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 4320 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:53:29,184 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:53:34,186 INFO (StartupInfoLogger.java:57)- Started Application in 5.399 seconds (JVM running for 6.801)
+2018-01-11 14:53:38,963 INFO (ControllerUtils.java:100)- 数据连接错误:java.sql.SQLException: Column 'service' not found.
+2018-01-11 14:54:44,548 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45992 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:54:44,553 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:54:49,717 INFO (StartupInfoLogger.java:57)- Started Application in 5.775 seconds (JVM running for 6.977)
+2018-01-11 14:55:40,070 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 7136 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 14:55:40,073 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 14:55:45,984 INFO (StartupInfoLogger.java:57)- Started Application in 6.374 seconds (JVM running for 8.091)
+2018-01-11 15:09:47,434 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 4364 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:09:47,437 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:09:52,730 INFO (StartupInfoLogger.java:57)- Started Application in 5.684 seconds (JVM running for 7.039)
+2018-01-11 15:13:01,414 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 6536 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:13:01,419 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:13:06,977 INFO (StartupInfoLogger.java:57)- Started Application in 6.146 seconds (JVM running for 7.458)
+2018-01-11 15:14:52,960 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 43948 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:14:52,985 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:15:51,550 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44288 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:15:51,554 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:16:21,149 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 40768 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:16:21,155 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:16:27,949 INFO (StartupInfoLogger.java:57)- Started Application in 7.347 seconds (JVM running for 9.547)
+2018-01-11 15:17:25,632 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 41104 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:17:25,635 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:17:31,129 INFO (StartupInfoLogger.java:57)- Started Application in 5.89 seconds (JVM running for 7.435)
+2018-01-11 15:40:24,536 INFO (ControllerUtils.java:44)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2018-01-11 15:40:40,670 INFO (ControllerUtils.java:44)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2018-01-11 15:40:59,535 INFO (ControllerUtils.java:44)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2018-01-11 15:41:40,974 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 19692 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-11 15:41:40,979 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-11 15:41:46,797 INFO (StartupInfoLogger.java:57)- Started Application in 6.247 seconds (JVM running for 7.191)
+2018-01-11 15:43:57,528 INFO (ControllerUtils.java:44)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2018-01-11 15:44:01,153 INFO (ControllerUtils.java:44)- 数据连接错误:com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

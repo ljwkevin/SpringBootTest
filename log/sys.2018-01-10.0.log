@@ -1,0 +1,57 @@
+2018-01-10 16:46:06,863 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 7136 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 16:46:06,876 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 16:46:12,583 INFO (StartupInfoLogger.java:57)- Started Application in 6.202 seconds (JVM running for 8.102)
+2018-01-10 16:47:16,509 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44148 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 16:47:16,514 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 16:47:22,197 INFO (StartupInfoLogger.java:57)- Started Application in 6.088 seconds (JVM running for 7.221)
+2018-01-10 16:48:10,056 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 38572 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 16:48:10,067 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 16:48:17,482 INFO (StartupInfoLogger.java:57)- Started Application in 8.077 seconds (JVM running for 10.535)
+2018-01-10 16:51:15,885 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45264 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 16:51:15,897 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 16:51:22,506 INFO (StartupInfoLogger.java:57)- Started Application in 7.251 seconds (JVM running for 9.054)
+2018-01-10 16:56:00,686 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 43072 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 16:56:00,698 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 16:56:10,208 INFO (StartupInfoLogger.java:57)- Started Application in 10.075 seconds (JVM running for 10.062)
+2018-01-10 17:23:25,103 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 38504 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 17:23:25,115 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 17:23:31,511 INFO (StartupInfoLogger.java:57)- Started Application in 6.867 seconds (JVM running for 8.252)
+2018-01-10 17:25:09,491 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42056 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 17:25:09,505 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 17:25:17,467 INFO (StartupInfoLogger.java:57)- Started Application in 8.61 seconds (JVM running for 11.453)
+2018-01-10 17:30:46,586 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 39284 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 17:30:46,596 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 17:30:52,933 INFO (StartupInfoLogger.java:57)- Started Application in 6.787 seconds (JVM running for 8.495)
+2018-01-10 19:53:32,841 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 39476 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 19:53:32,940 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 19:53:41,732 INFO (StartupInfoLogger.java:57)- Started Application in 9.774 seconds (JVM running for 12.506)
+2018-01-10 20:00:19,916 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42536 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:00:19,923 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:00:28,452 INFO (StartupInfoLogger.java:57)- Started Application in 9.058 seconds (JVM running for 9.001)
+2018-01-10 20:03:10,872 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 36692 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:03:10,882 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:03:19,341 INFO (StartupInfoLogger.java:57)- Started Application in 9.033 seconds (JVM running for 9.289)
+2018-01-10 20:05:52,043 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 45568 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:05:52,047 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:05:59,403 INFO (StartupInfoLogger.java:57)- Started Application in 7.905 seconds (JVM running for 9.319)
+2018-01-10 20:21:36,948 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 39016 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:21:36,959 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:21:48,176 INFO (StartupInfoLogger.java:57)- Started Application in 11.739 seconds (JVM running for 11.913)
+2018-01-10 20:34:23,076 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42288 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:34:23,086 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:34:31,530 INFO (StartupInfoLogger.java:57)- Started Application in 9.02 seconds (JVM running for 11.345)
+2018-01-10 20:38:42,451 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 1136 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 20:38:42,460 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 20:38:51,999 INFO (StartupInfoLogger.java:57)- Started Application in 10.203 seconds (JVM running for 10.235)
+2018-01-10 21:46:15,347 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42876 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 21:46:15,350 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 21:46:20,819 INFO (StartupInfoLogger.java:57)- Started Application in 5.891 seconds (JVM running for 7.261)
+2018-01-10 21:47:45,711 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 44004 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 21:47:45,718 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 21:47:53,108 INFO (StartupInfoLogger.java:57)- Started Application in 7.85 seconds (JVM running for 9.738)
+2018-01-10 21:56:10,111 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 42516 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 21:56:10,120 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 21:56:17,261 INFO (StartupInfoLogger.java:57)- Started Application in 7.796 seconds (JVM running for 7.681)
+2018-01-10 21:58:29,955 INFO (StartupInfoLogger.java:48)- Starting Application on caoqc19470 with PID 39924 (F:\eclipse-java-mars\workspace\gateway2\target\classes started by caoqc19470 in F:\eclipse-java-mars\workspace\gateway2)
+2018-01-10 21:58:29,960 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-01-10 21:58:36,735 INFO (StartupInfoLogger.java:57)- Started Application in 7.266 seconds (JVM running for 7.863)
